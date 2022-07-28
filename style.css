@@ -1,0 +1,30 @@
+*{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+/* slider bg */
+
+  .slider-bg{
+    height: 100vh;
+  } 
+
+.slider-bg1{
+    background-image: url(images/slider/Untitled\ design.png);
+   background-repeat: no-repeat;
+   
+}
+.slider-bg2{
+    background-image: url(./images/slider/Untitled\ design\ \(1\).png);
+   background-repeat: no-repeat;
+   
+}
+.slider-bg3{
+    background-image: url(./images/slider/Untitled\ design\ \(2\).png);
+   background-repeat: no-repeat;
+   
+}
+
+
+        
+    
